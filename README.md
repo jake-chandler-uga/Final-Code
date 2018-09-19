@@ -1,2 +1,2 @@
 # Final-Code
-Includes all classes/drivers required to operate the cold fusion temperature sensing device
+Includes all classes/drivers required to operate the IR temperature sensing device
